@@ -1,4 +1,3 @@
 ## Hola
 
-![20250625_2023_image](https://github.com/user-attachments/assets/39bb1da3-ca33-4587-a692-64c579b0ddaf)
-
+![image](https://github.com/user-attachments/assets/d99a9094-aff2-4c93-899f-c398e539eac9)
