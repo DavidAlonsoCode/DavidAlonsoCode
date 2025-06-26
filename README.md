@@ -2,6 +2,7 @@
 <h3 align="center">A systems engineering student</h3>
 
 - 🌱 I’m currently learning **about operating systems**
+- 🙌 Some of the projects I participated in are available in the "my-projects" repository.
 
 <p align="left">
 </p>
