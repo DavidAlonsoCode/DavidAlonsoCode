@@ -7,4 +7,4 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidalonsocode&show_icons=true&locale=en&layout=compact" alt="davidalonsocode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidalonsocode&show_icons=true&locale=en&layout=compact" alt="davidalonsocode" /></p>
