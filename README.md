@@ -4,20 +4,6 @@
 
 ---
 
-<pre>
-    .-----------------------------------------------------------------.
-   /  .-.                                                         .-.  \
-  |  /   \      _  _        _  _         __        __            /   \  |
-  | |\_.  |    | || |      | || |       /  \      /  \          |  ._/| |
-  |\|  | /|    | || |      | || |      / /\ \    / /\ \         |\ |  |/|
-  | ---' |    | || |____  | || |     / /  \ \  / /  \ \        | ---' |
-  |       |    | ||______| | || |    /_/    \_\/_/    \_\       |       |
-  |       |    | |         | || |                               |       |
-  |       |    |_|         |_||_|  DEVELOPER PORTFOLIO          |       |
-  \       /                                                     \       /
-   -----'                                                       -----'
-</pre>
-
 ### 👨‍💻 Sobre Mí | About Me
 
 **[🇪🇸 Español]**
@@ -45,24 +31,36 @@
 ### 📊 Mis Estadísticas | My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/DavidAlonsoCode">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DavidAlonsoCode">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/DavidAlonsoCode">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </div>
 
 ---
 
 <pre>
- _________________________________________
-/ Sigo escribiendo código hasta que el    \
-\ compilador se canse de mí.              /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+       / \
+      / _ \
+     | / \ |
+     ||   ||
+     ||   ||
+     ||___||
+     |\___/|
+    /| | | |\
+   / | | | | \
+  /__|_|_|_|__\
+     |     |
+     |     |
+      \___/
+       /|\
+      //|\\
 </pre>
