@@ -11,12 +11,14 @@
 - 🎓 Estudiante avanzado de Ingeniería en Sistemas en la UTN.BA.
 - 🚀 Apasionado por el desarrollo Back-End, Front-End, algoritmos de bajo nivel y arquitectura de sistemas.
 - 💡 Siempre buscando nuevos desafíos para expandir mis conocimientos en el desarrollo de software.
+- 📁 **Todos mis proyectos y trabajos se encuentran centralizados en mi repositorio principal: [My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
 
 **[🇬🇧 English]**
 - 💻 Developer focused on writing clean, scalable, and maintainable code.
 - 🎓 Advanced Systems Engineering student at UTN.BA.
 - 🚀 Passionate about Back-End and Front-End development, low-level algorithms, and systems architecture.
 - 💡 Always looking for new challenges to expand my software development knowledge.
+- 📁 **All my projects and coursework are centralized in my main repository: [My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
 
 ---
 
