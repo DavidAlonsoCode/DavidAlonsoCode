@@ -4,7 +4,7 @@
 
 ---
 
-`	ext
+<pre>
     .-----------------------------------------------------------------.
    /  .-.                                                         .-.  \
   |  /   \      _  _        _  _         __        __            /   \  |
@@ -16,15 +16,25 @@
   |       |    |_|         |_||_|  DEVELOPER PORTFOLIO          |       |
   \       /                                                     \       /
    -----'                                                       -----'
-`
+</pre>
 
-### 👨‍💻 Sobre Mí
-- 💻 Desarrollador apasionado por el código limpio y la arquitectura de software.
-- 🎓 Estudiante de Ingeniería en Sistemas en la UTN.BA.
-- 🧉 Mate en mano, siempre listo para resolver el próximo bug.
-- 🚀 Aprendiendo constantemente sobre Back-End, Front-End, algoritmos de bajo nivel y arquitectura.
+### 👨‍💻 Sobre Mí | About Me
 
-### 🛠️ Tecnologías y Herramientas
+**[🇪🇸 Español]**
+- 💻 Desarrollador enfocado en escribir código limpio, escalable y mantenible.
+- 🎓 Estudiante avanzado de Ingeniería en Sistemas en la UTN.BA.
+- 🚀 Apasionado por el desarrollo Back-End, Front-End, algoritmos de bajo nivel y arquitectura de sistemas.
+- 💡 Siempre buscando nuevos desafíos para expandir mis conocimientos en el desarrollo de software.
+
+**[🇬🇧 English]**
+- 💻 Developer focused on writing clean, scalable, and maintainable code.
+- 🎓 Advanced Systems Engineering student at UTN.BA.
+- 🚀 Passionate about Back-End and Front-End development, low-level algorithms, and systems architecture.
+- 💡 Always looking for new challenges to expand my software development knowledge.
+
+---
+
+### 🛠️ Tecnologías y Herramientas | Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,haskell,kotlin,java,js,ts,react,nextjs,nodejs,express,mongodb,git,docker,linux,powershell" />
@@ -32,10 +42,10 @@
 
 <br/>
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Mis Estadísticas | My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -45,8 +55,7 @@
 
 ---
 
-<div align="center">
-`	ext
+<pre>
  _________________________________________
 / Sigo escribiendo código hasta que el    \
 \ compilador se canse de mí.              /
@@ -56,5 +65,4 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-`
-</div>
+</pre>
