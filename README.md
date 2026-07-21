@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/DavidAlonsoCode">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight" alt="GitHub Streak" />
@@ -41,26 +41,28 @@
 
 <div align="center">
   <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
+<div align="center">
 <pre>
-       / \
-      / _ \
-     | / \ |
-     ||   ||
-     ||   ||
-     ||___||
-     |\___/|
-    /| | | |\
-   / | | | | \
-  /__|_|_|_|__\
-     |     |
-     |     |
-      \___/
-       /|\
-      //|\\
+           / \
+          / _ \
+         | / \ |
+         ||   ||
+         ||   ||
+         ||___||
+         |\___/|
+ 💯     /| | | |\     💯
+       / | | | | \
+      /__|_|_|_|__\
+         |     |
+         |     |
+          \___/
+           /|\
+          //|\\
 </pre>
+</div>
