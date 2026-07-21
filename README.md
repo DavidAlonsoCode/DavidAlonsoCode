@@ -28,41 +28,43 @@
 
 <br/>
 
+<div align="center">
+
 ### 📊 Mis Estadísticas | My GitHub Stats
+<a href="https://github.com/DavidAlonsoCode">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&v=4" alt="GitHub Stats" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
+### 🔥 Racha de Commits | Commit Streak
+<a href="https://github.com/DavidAlonsoCode">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight&v=4" alt="GitHub Streak" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-  </a>
+### 💻 Lenguajes Principales | Top Languages
+<a href="https://github.com/DavidAlonsoCode">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&v=4" alt="Top Languages" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 <pre>
-           / \
-          / _ \
-         | / \ |
-         ||   ||
-         ||   ||
-         ||___||
-         |\___/|
- 💯     /| | | |\     💯
-       / | | | | \
-      /__|_|_|_|__\
-         |     |
-         |     |
-          \___/
-           /|\
-          //|\\
+       / \
+      / _ \
+     | / \ |
+     ||   ||
+     ||   ||
+     ||___||
+     |\___/|
+    /| | | |\
+   / | | | | \
+  /__|_|_|_|__\
+     |     |
+     |     |
+      \___/
+       /|\
+      //|\\
 </pre>
 </div>
