@@ -30,26 +30,15 @@
 
 <div align="center">
 
-### 📊 Mis Estadísticas | My GitHub Stats
-<a href="https://github.com/DavidAlonsoCode">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&v=4" alt="GitHub Stats" />
-</a>
-
 ### 🔥 Racha de Commits | Commit Streak
 <a href="https://github.com/DavidAlonsoCode">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight&v=4" alt="GitHub Streak" />
-</a>
-
-### 💻 Lenguajes Principales | Top Languages
-<a href="https://github.com/DavidAlonsoCode">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&v=4" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAlonsoCode&theme=tokyonight&v=5" alt="GitHub Streak" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
 <pre>
        / \
       / _ \
@@ -67,4 +56,3 @@
        /|\
       //|\\
 </pre>
-</div>
