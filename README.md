@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+David+Alonso+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas+%40+UTN.BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+David+Alonso+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/david-alonsoo" target="_blank">
