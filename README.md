@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    📍 <b>Lanús, Buenos Aires, Argentina</b> &nbsp;|&nbsp; 🗣️ <b>Inglés: Nivel Avanzado (B2 First Certificate - Cultura Inglesa)</b>
+    📍 <b>Buenos Aires, Argentina</b> &nbsp;|&nbsp; 🗣️ <b>Inglés: B2 First Certificate</b>
   </p>
 </div>
 
