@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=650&lines=Hola%2C+soy+David+Alonso+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas+%40+UTN.BA;Backend+Developer+%7C+Java%2C+Spring%2C+Node;Explorando+Agentes+de+IA+%26+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+David+Alonso+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas+%40+UTN.BA" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/david-alonsoo" target="_blank">
@@ -7,9 +7,6 @@
     </a>
     <a href="mailto:dave3000ea@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/DavidAlonsoCode">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -64,27 +61,16 @@
       <h4 align="center">🏥 Sweet Medical</h4>
       <p align="center"><b>Sistema de Gestión de Turnos Médicos</b></p>
       <p>Aplicación web completa desarrollada con el stack <b>MERN</b> (MongoDB, Express, React, Node.js). API REST con autenticación segura mediante JWT, gestión de turnos para pacientes y profesionales de salud, y despliegue en la nube.</p>
-      <p align="center">
-        🔗 <a href="https://github.com/DavidAlonsoCode/MERN-Sweet-Medical"><b>Repositorio Principal</b></a><br/>
-        📦 <a href="https://github.com/DavidAlonsoCode/sweet-medical-backend">Backend</a> &bull; <a href="https://github.com/DavidAlonsoCode/sweet-medical-frontend">Frontend</a>
-      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">💻 Simulación de SO</h4>
       <p align="center"><b>Piratas Del Kernel (C / UTN)</b></p>
       <p>Desarrollo en <b>C</b> de los módulos centrales de un sistema operativo: Kernel, CPU, Memoria (con esquemas de paginación/segmentación) y Filesystem. Resolución de problemas de bajo nivel, manejo de concurrencia y semáforos, e IPC por sockets multihilo.</p>
-      <p align="center">
-        🔗 <a href="https://github.com/DavidAlonsoCode/TP-2025-SSOO-PiratasDelKernel"><b>Ver Repositorio</b></a>
-      </p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center">🧠 Agentes de IA & RAG</h4>
       <p align="center"><b>Oracle Next Education (ONE)</b></p>
       <p>Creación, orquestación y despliegue de agentes inteligentes utilizando arquitecturas <b>RAG (Retrieval-Augmented Generation)</b> para consultas contextualizadas sobre bases de conocimiento y automatización de flujos de trabajo.</p>
-      <p align="center">
-        🔗 <a href="https://github.com/DavidAlonsoCode/DaAndDa-Solutions-Agente"><b>Agente DaAndDa</b></a><br/>
-        ☁️ <a href="https://github.com/DavidAlonsoCode/one-oci-ai-foundations-associate">OCI AI Foundations</a>
-      </p>
     </td>
   </tr>
 </table>
@@ -105,21 +91,7 @@
 ---
 
 <div align="center">
-<pre>
-       / \
-      / _ \
-     | / \ |
-     ||   ||
-     ||   ||
-     ||___||
-     |\___/|
-    /| | | |\
-   / | | | | \
-  /__|_|_|_|__\
-     |     |
-     |     |
-      \___/
-       /|\
-      //|\\
-</pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+never+lies%2C+comments+sometimes+do.%22;%22Simplicity+is+prerequisite+for+reliability.%22" alt="Coding Quotes" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20building%2C%20keep%20learning%20%F0%9F%9A%80&fontSize=18&fontColor=00FF99&animation=twinkling" width="100%" />
 </div>
