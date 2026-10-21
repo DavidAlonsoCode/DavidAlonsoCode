@@ -20,7 +20,7 @@
 ### 🚀 Sobre Mí | About Me
 
 **[🇪🇸 Español]**
-- 🎓 **Estudiante de Ingeniería en Sistemas de Información** en la **UTN.BA** (56% de la carrera aprobada | Promedio: 8.3/10).
+- 🎓 **Estudiante avanzado de Ingeniería en Sistemas de Información** en la **UTN.BA** (Promedio: 8.3/10).
 - ⚙️ Enfocado en **desarrollo Back-End**, diseño de arquitecturas escalables, algoritmos y sistemas de bajo nivel.
 - 🤖 Especializándome en **Agentes de Inteligencia Artificial y arquitecturas RAG** (Oracle Next Education).
 - 💡 Gran capacidad de resolución de problemas técnicos complejos, pensamiento analítico y comunicación clara.
