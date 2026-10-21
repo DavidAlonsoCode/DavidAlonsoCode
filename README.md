@@ -21,14 +21,14 @@
 
 **[🇪🇸 Español]**
 - 🎓 **Estudiante avanzado de Ingeniería en Sistemas de Información** en la **UTN.BA** (Promedio: 8.3/10).
-- ⚙️ Enfocado en **desarrollo Back-End**, diseño de arquitecturas escalables, algoritmos y sistemas de bajo nivel.
+- ⚙️ Enfocado en **desarrollo Back-End**, diseño de arquitecturas escalables, algoritmos, etc.
 - 🤖 Especializándome en **Agentes de Inteligencia Artificial y arquitecturas RAG** (Oracle Next Education).
 - 💡 Gran capacidad de resolución de problemas técnicos complejos, pensamiento analítico y comunicación clara.
 - 📂 Podés ver el índice consolidado de mis proyectos y materias en: **[My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
 
 **[🇬🇧 English]**
 - 🎓 **Advanced Information Systems Engineering Student** at **UTN.BA** (GPA: 8.3/10).
-- ⚙️ Focused on **Back-End development**, scalable architecture, algorithms, and low-level systems.
+- ⚙️ Focused on **Back-End development**, scalable architecture, algorithms, etc.
 - 🤖 Specializing in **AI Agents & RAG architectures** (Oracle Next Education).
 - 💡 Strong analytical problem-solving mindset and clear technical communication for teamwork.
 - 📂 Browse my coursework and projects index in: **[My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
