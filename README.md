@@ -27,7 +27,7 @@
 - 📂 Podés ver el índice consolidado de mis proyectos y materias en: **[My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
 
 **[🇬🇧 English]**
-- 🎓 **Information Systems Engineering Student** at **UTN.BA** (56% completed | GPA: 8.3/10).
+- 🎓 **Advanced Information Systems Engineering Student** at **UTN.BA** (GPA: 8.3/10).
 - ⚙️ Focused on **Back-End development**, scalable architecture, algorithms, and low-level systems.
 - 🤖 Specializing in **AI Agents & RAG architectures** (Oracle Next Education).
 - 💡 Strong analytical problem-solving mindset and clear technical communication for teamwork.
