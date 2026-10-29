@@ -28,7 +28,6 @@ Team project built for the Oracle Next Education hackathon with No Country. It t
 - Retrieval-augmented generation over the uploaded documents, with every answer citing its sources.
 - A LangGraph workflow (supervisor, researcher, writer, critic and finalizer) where a separate reviewer checks each statement against the source before the material is published.
 - FastAPI back end, React + TypeScript front end, ChromaDB for the vector index and OCI Object Storage for documents and results.
-- Live demo: [nuevamente-app.onrender.com](https://nuevamente-app.onrender.com) (free hosting, the first request may take a couple of minutes).
 
 ### [My-Projects](https://github.com/DavidAlonsoCode/My-Projects)
 
