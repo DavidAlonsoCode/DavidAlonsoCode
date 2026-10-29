@@ -45,14 +45,23 @@ An index of many of the projects and course assignments I worked on while studyi
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | Java, Python, TypeScript, JavaScript, C, C++, Kotlin |
-| Back end | Spring Boot, FastAPI, Node.js, Express, REST APIs, WebSockets, RabbitMQ |
-| Front end | React, Next.js, HTML, CSS |
-| Data | PostgreSQL, SQL Server (T-SQL), MongoDB, JPA/Hibernate, data modeling |
-| Tools | Git, GitHub, Docker, Linux, Linear |
+| Languages | <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,kotlin" alt="Java, Python, TypeScript, JavaScript, C, C++, Kotlin" /> |
+| Back end | <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,rabbitmq" alt="Spring Boot, FastAPI, Node.js, Express, RabbitMQ" /><br/>REST APIs, WebSockets |
+| Front end | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="React, Next.js, HTML, CSS" /> |
+| Data | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" /><br/>SQL Server (T-SQL), JPA/Hibernate, data modeling |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Git, GitHub, Docker, Linux" /><br/>Linear |
 | AI | LLM APIs (Gemini, Claude, DeepSeek, Qwen, OpenRouter), RAG pipelines, LangGraph, AI-assisted development |
 
 ## Education
 
 - **Information Systems Engineering**, Universidad Tecnológica Nacional (UTN.BA), 2022 to present.
 - **AI Agents course**, Oracle Next Education, 2026 to present.
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=DavidAlonsoCode&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</div>
