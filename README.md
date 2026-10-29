@@ -1,6 +1,6 @@
 <div align="center">
 
-# David Alonso
+# David Emanuel Alonso
 
 Information Systems Engineering student at UTN.BA · Back-End and Full Stack development
 
