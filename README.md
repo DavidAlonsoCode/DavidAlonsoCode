@@ -1,97 +1,58 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+David+Alonso+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://linkedin.com/in/david-alonsoo" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dave3000ea@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+# David Alonso
 
-  <p align="center">
-    📍 <b>Buenos Aires, Argentina</b> &nbsp;|&nbsp; 🗣️ <b>Inglés: B2 First Certificate</b>
-  </p>
+Information Systems Engineering student at UTN.BA · Back-End and Full Stack development
+
+Buenos Aires, Argentina · English: B2 First Certificate
+
+<a href="https://linkedin.com/in/david-alonsoo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dave3000ea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 ---
 
-### 🚀 Sobre Mí | About Me
+## About me
 
-**[🇪🇸 Español]**
-- 🎓 **Estudiante avanzado de Ingeniería en Sistemas de Información** en la **UTN.BA** (Promedio: 8.3/10).
-- ⚙️ Enfocado en **desarrollo Back-End**, diseño de arquitecturas escalables, algoritmos, etc.
-- 🤖 Especializándome en **Agentes de Inteligencia Artificial y arquitecturas RAG** (Oracle Next Education).
-- 💡 Gran capacidad de resolución de problemas técnicos complejos, pensamiento analítico y comunicación clara.
-- 📂 Podés ver el índice consolidado de mis proyectos y materias en: **[My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
+I am an advanced Information Systems Engineering student at UTN.BA (24 courses passed, GPA 8.3/10) with about two years of experience building software in academic and team projects. I am mostly interested in back-end and full stack development, and I am currently learning about AI agents and RAG architectures through the Oracle Next Education program.
 
-**[🇬🇧 English]**
-- 🎓 **Advanced Information Systems Engineering Student** at **UTN.BA** (GPA: 8.3/10).
-- ⚙️ Focused on **Back-End development**, scalable architecture, algorithms, etc.
-- 🤖 Specializing in **AI Agents & RAG architectures** (Oracle Next Education).
-- 💡 Strong analytical problem-solving mindset and clear technical communication for teamwork.
-- 📂 Browse my coursework and projects index in: **[My-Projects](https://github.com/DavidAlonsoCode/My-Projects)**.
+I enjoy understanding problems before writing code, working in teams and explaining technical ideas clearly. I use AI tools in my daily workflow to learn faster and to speed up repetitive work, always reviewing what they produce.
 
----
+## Featured projects
 
-### 🛠️ Tecnologías y Herramientas | Tech Stack & Tools
+### [NuevaMente: RAG and multi-agent learning platform](https://github.com/DavidAlonsoCode/NuevaMente-RAG-Multiagente)
 
-<div align="center">
+Team project built for the Oracle Next Education hackathon with No Country. It turns technical documentation into study material (guides, flashcards, quizzes, summaries and lecture scripts) adapted to different audiences.
 
-| Categoría | Tecnologías |
+- Retrieval-augmented generation over the uploaded documents, with every answer citing its sources.
+- A LangGraph workflow (supervisor, researcher, writer, critic and finalizer) where a separate reviewer checks each statement against the source before the material is published.
+- FastAPI back end, React + TypeScript front end, ChromaDB for the vector index and OCI Object Storage for documents and results.
+- Live demo: [nuevamente-app.onrender.com](https://nuevamente-app.onrender.com) (free hosting, the first request may take a couple of minutes).
+
+### [My-Projects](https://github.com/DavidAlonsoCode/My-Projects)
+
+An index of many of the projects and course assignments I worked on while studying. It is not a complete list: newer projects, such as NuevaMente, live in their own repositories.
+
+### Other work
+
+- **[Sweet Medical](https://github.com/DavidAlonsoCode/MERN-Sweet-Medical)**: appointment management web app built with the MERN stack, including the database design, a REST API with JWT authentication and its deployment.
+- **Operating system simulation (C, UTN)**: team project where I worked on memory management, process scheduling and synchronization of shared resources with semaphores.
+- **DonaTrack (team project)**: donation tracking system for NGOs with four microservices communicating through RabbitMQ. I worked on persistence with PostgreSQL (JPA) and MongoDB, and on the donation history, route logistics and incentive ranking modules.
+- **Smart activity planner (team project)**: microservices platform built in six weeks with Java 21, Spring Boot, React with TypeScript, Redis and RabbitMQ, integrating weather APIs, a Telegram bot and real-time notifications over WebSockets.
+
+## Tech stack
+
+| Area | Technologies |
 | :--- | :--- |
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py,js,ts" alt="Lenguajes" /> |
-| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend" /> |
-| **Bases de Datos** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de Datos" /> |
-| **DevOps & Entornos** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,powershell" alt="DevOps" /> |
+| Languages | Java, Python, TypeScript, JavaScript, C, C++, Kotlin |
+| Back end | Spring Boot, FastAPI, Node.js, Express, REST APIs, WebSockets, RabbitMQ |
+| Front end | React, Next.js, HTML, CSS |
+| Data | PostgreSQL, SQL Server (T-SQL), MongoDB, JPA/Hibernate, data modeling |
+| Tools | Git, GitHub, Docker, Linux, Linear |
+| AI | LLM APIs (Gemini, Claude, DeepSeek, Qwen, OpenRouter), RAG pipelines, LangGraph, AI-assisted development |
 
-</div>
+## Education
 
-> 🤖 **Inteligencia Artificial & Agentes:** Integración de APIs de LLMs (Gemini, Claude, DeepSeek, Qwen, OpenRouter), pipelines RAG, frameworks de agentes autónomos y Vibe Coding.
-
----
-
-### 📌 Proyectos Destacados | Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🏥 Sweet Medical</h4>
-      <p align="center"><b>Sistema de Gestión de Turnos Médicos</b></p>
-      <p>Aplicación web completa desarrollada con el stack <b>MERN</b> (MongoDB, Express, React, Node.js). API REST con autenticación segura mediante JWT, gestión de turnos para pacientes y profesionales de salud, y despliegue en la nube.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">💻 Simulación de SO</h4>
-      <p align="center"><b>Piratas Del Kernel (C / UTN)</b></p>
-      <p>Desarrollo en <b>C</b> de los módulos centrales de un sistema operativo: Kernel, CPU, Memoria (con esquemas de paginación/segmentación) y Filesystem. Resolución de problemas de bajo nivel, manejo de concurrencia y semáforos, e IPC por sockets multihilo.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🧠 Agentes de IA & RAG</h4>
-      <p align="center"><b>Oracle Next Education (ONE)</b></p>
-      <p>Creación, orquestación y despliegue de agentes inteligentes utilizando arquitecturas <b>RAG (Retrieval-Augmented Generation)</b> para consultas contextualizadas sobre bases de conocimiento y automatización de flujos de trabajo.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estadísticas de GitHub | GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DavidAlonsoCode&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99" alt="David's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DavidAlonsoCode&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99" alt="Top Languages" />
-  <br/><br/>
-  <a href="https://github.com/DavidAlonsoCode">
-    <img src="https://streak-stats.demolab.com/?user=DavidAlonsoCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+never+lies%2C+comments+sometimes+do.%22;%22Simplicity+is+prerequisite+for+reliability.%22" alt="Coding Quotes" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20building%2C%20keep%20learning%20%F0%9F%9A%80&fontSize=18&fontColor=00FF99&animation=twinkling" width="100%" />
-</div>
+- **Information Systems Engineering**, Universidad Tecnológica Nacional (UTN.BA), 2022 to present.
+- **AI Agents course**, Oracle Next Education, 2026 to present.
