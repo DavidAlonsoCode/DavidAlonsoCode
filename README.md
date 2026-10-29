@@ -45,12 +45,12 @@ An index of many of the projects and course assignments I worked on while studyi
 
 | Area | Technologies |
 | :--- | :--- |
-| Languages | <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,kotlin,bash" alt="Java, Python, TypeScript, JavaScript, C, C++, Kotlin, Bash" /> |
-| Back end | <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,rabbitmq" alt="Spring Boot, FastAPI, Node.js, Express, RabbitMQ" /><br/>REST APIs, WebSockets, microservices |
-| Front end | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" /> |
-| Data | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,hibernate" alt="PostgreSQL, MongoDB, Redis, MySQL, SQLite, Hibernate" /><br/>SQL Server (T-SQL), JPA, data modeling |
-| DevOps and tools | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,powershell,vscode,idea,postman,vercel,androidstudio,figma,notion" alt="Git, GitHub, GitHub Actions, Docker, Linux, PowerShell, VS Code, IntelliJ IDEA, Postman, Vercel, Android Studio, Figma, Notion" /><br/>Linear |
-| AI | <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openrouter&logoColor=white" alt="OpenRouter" /> <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain %2F LangGraph" /><br/>RAG pipelines, multi-agent workflows, AI-assisted development |
+| Languages | <img src="https://skillicons.dev/icons?i=java,py,ts,js,c,cpp,kotlin" alt="Java, Python, TypeScript, JavaScript, C, C++, Kotlin" /> |
+| Back end | <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" alt="Spring Boot, FastAPI, Node.js" /> |
+| Front end | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="React, Next.js, HTML, CSS" /> |
+| Data | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" alt="PostgreSQL, MongoDB, MySQL, SQLite" /> |
+| DevOps and tools | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,vscode,idea,postman,androidstudio" alt="Git, GitHub, Docker, Linux, PowerShell, VS Code, IntelliJ IDEA, Postman, Android Studio" /> |
+| AI | <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openrouter&logoColor=white" alt="OpenRouter" /> <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain %2F LangGraph" /> |
 
 ## Education
 
