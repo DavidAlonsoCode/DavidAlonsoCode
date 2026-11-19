@@ -15,7 +15,7 @@ Buenos Aires, Argentina · English: B2 First Certificate
 
 ## About me
 
-I am an advanced Information Systems Engineering student at UTN.BA (24 courses passed, GPA 8.3/10) with about two years of experience building software in academic and team projects. I am mostly interested in back-end and full stack development, and I am currently learning about AI agents and RAG architectures through the Oracle Next Education program.
+I am an advanced Information Systems Engineering student at UTN.BA (GPA 8.3/10) with about two years of experience building software in academic and team projects. I am mostly interested in back-end and full stack development, and I am currently learning about AI agents and RAG architectures through the Oracle Next Education program.
 
 I enjoy understanding problems before writing code, working in teams and explaining technical ideas clearly. I use AI tools in my daily workflow to learn faster and to speed up repetitive work, always reviewing what they produce.
 
